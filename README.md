@@ -2,6 +2,8 @@
 
 ## Extra assingment bundle E
 
+Link to GitHub [repository](https://github.com/RautioS/RautioS.github.io) used
+
 ---
 
 ### This is demo page for Cloud cource using different **Markdown** flavours
